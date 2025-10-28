@@ -7,7 +7,7 @@
 
 ### Introdução
 
-Meu nome é Ryuna Cortez (ela/dela ♀️) - Sou estudante de Ciência da Computação e também estagio na área de Endpoint Security!
+Meu nome é Ryuna Cortez (ela/dela ♀️) - Sou estudante de Ciência da Computação e também estagio com Endpoint Security!
 
 ### Interesses
 

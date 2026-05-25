@@ -15,4 +15,4 @@ Possuo interesses diversos dentro da tecnologia, mas em geral sou apaixonada pel
 
 ### Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=arch,bash,cs,css,deno,docker,go,html,js,powershell,py,redhat,ubuntu)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,cs,css,deno,docker,go,html,js,py,redhat)](https://skillicons.dev)  

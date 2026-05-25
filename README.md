@@ -7,11 +7,11 @@
 
 ### Introdução
 
-Meu nome é Ryuna Cortez (ela/dela ♀️) - Sou estudante de Ciência da Computação e também estagio com Endpoint Security!
+Meu nome é Ryuna Cortez (ela/dela ♀️) - Sou estudante de Ciência da Computação e também estagio com desenvolvimento back-end!
 
 ### Interesses
 
-Possuo interesses diversos dentro da tecnologia, mas em geral sou apaixonada pela filosofia FOSS e busco sempre priorizar projetos dessa natureza! Além disso, gosto muito de desenvolvimento de jogos, computação gráfica e cibersegurança.
+Possuo interesses diversos dentro da tecnologia, mas em geral sou apaixonada pela filosofia FOSS e busco sempre priorizar projetos dessa natureza! Além disso, gosto muito de desenvolvimento de jogos.
 
 ### Tecnologias
 
